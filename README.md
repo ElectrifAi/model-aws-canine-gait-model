@@ -8,5 +8,4 @@ It is important to understand canine locomotion and gait to help determine numer
 
 SKU: GAITA-PS-HLC-AWS-001
 
-
-
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-u4m5kkoayvoc6 
